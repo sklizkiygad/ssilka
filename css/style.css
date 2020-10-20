@@ -1,0 +1,293 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sec1 {
+  background: url(../img/bd.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo-h {
+  padding-bottom: 60px;
+  margin-top: 300px;
+  color: #505050;
+  font-size: 45px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+.spidey {
+  background-color: #b2f2ee;
+}
+.logo {
+  margin-top: 40px;
+}
+.ssil{
+  text-decoration:none !important;
+  color:black;
+}
+.ssil{
+  color: #000000 !important;
+
+}
+.butt {
+  display: block;
+  margin: 0 auto;
+  letter-spacing: 2.16px;
+  text-transform: uppercase;
+  color: #000000;
+  line-height: 28px;
+  font-size: 21px;
+  background-color: #eff0f2 !important;
+  border: 2px solid #777879;
+  border-radius: 2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 400px;
+}
+.butt:hover  {
+  text-decoration: none !important;
+  background-color: #eff0f2 !important;
+  border: 2px solid #777879;
+  color: #000000 !important;
+}
+.sec2 {
+  background-color: #f8fafa;
+}
+
+.about{
+color: #000000;
+font-size: 38px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 2.28px;
+margin-bottom: 10px;
+margin-top: 100px;
+
+}
+.lor{
+margin-bottom: 100px;
+opacity: 0.62;
+color: #000000;
+font-family: Merriweather;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-transform: uppercase;
+letter-spacing: 1.08px;
+}
+.zag{
+font-family: Merriweather;
+opacity: 0.75;
+color: #000000;
+font-size: 20px;
+font-weight: 900;
+line-height: 28px;
+text-transform: uppercase;
+letter-spacing: 1.2px;
+}
+.afterzag{
+
+opacity: 0.74;
+color: #000000;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.8px;
+}
+.cheer{
+  margin-bottom:200px;
+}
+.sec3{
+  background-color:#ffffff;
+  margin-bottom: 200px;
+}
+.pic{
+  margin-bottom: 10px;
+}
+
+.souce{
+  padding-bottom: 200px;
+  
+}
+.sec4{
+  background-color:#f9fbfb;
+  
+ 
+}
+.green{
+  padding-right: 0px;
+	width: 100%;
+
+}
+.greenbl{
+  background-color:#70f6eb;
+  padding: 65px;
+	
+  
+}
+.gay{
+  margin-top: 10px;
+}
+
+.pad{
+  
+  margin-bottom: 200px;
+}
+.sec5{
+  background-color:#ffffff;
+  margin-bottom: 200px;
+}
+.sec6{
+  background-color:#f9fbfb;
+  padding-bottom: 200px;
+
+}
+.wtsb{
+  background-color:#eaebed;
+  margin-top: 40px;
+  padding: 70px;
+}
+.rayhan{
+color: #000000;
+font-family: "Merriweather - Bold";
+font-size: 20px;
+font-weight: 700;
+letter-spacing: 1.2px;
+}
+.sec7{
+  background-color:#ffffff;
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+.sec8{
+background:url("../img/christmass.png");
+padding-bottom: 200px;
+
+
+}
+.baby{
+  box-shadow: 0 0 30px rgba(21, 21, 21, 0.12);
+  background-color: #021623;
+  opacity: 0.71;
+}
+.btext{
+margin:10px;
+opacity: 0.6;
+color: #ffffff;
+font-size: 15px;
+font-weight: 400;
+line-height: 51px;
+text-align: left;
+}
+.send{
+background-color:#6eeee4 !important;
+opacity: 0.7;
+color: #000000;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-transform: uppercase;
+letter-spacing: 2.16px;
+border-radius:2px;
+margin:23px;
+}
+.lp{
+margin:10px;
+opacity: 0.7;
+color: #ffffff;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+padding:20px;
+}
+.bi{
+margin:33px;
+max-width:70vw;
+
+}
+.sec9{
+  background-color:#262b2e;
+}
+.follow{
+margin-top: 200px;
+opacity: 0.8;
+color: #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+text-transform: uppercase;
+letter-spacing: 0.16px;
+}
+.copyr{
+margin-top: 50px;
+margin-bottom: 100px;
+opacity: 0.4;
+color: #ffffff;
+font-size: 16px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0.16px;
+}
+INPUT[type="text"] {
+  color: #ffe;
+  opacity:1;
+  border-bottom: 1px solid white;
+  margin-left:5px;
+ }
+ INPUT[type="text"]:hover{
+  color: #ffe;
+  opacity:1;
+ }
+
+ /* adaptiv */
+ @media screen and (max-device-width:500px){
+  .cheer {
+    max-width:100%;
+  }
+  .design{
+    max-width:90%;
+  }
+  .cil{
+    margin-top:10px;
+  }
+  
+ 
+  
+  
+  
+  }
+  .ad{
+    overflow:hidden;
+  }
+  .bran{
+    max-width:100%;
+  }
+  .wts{
+    max-width: 100%;
+  }
+  .design{
+    margin-top:10px;
+  }
+ 
+
+  
+.passive{
+  position:relative;
+}
+.her{
+  position:absolute;
+    bottom:0;
+    right:0;
+    opacity: 0;
+}
+.passive:hover .her{
+  display:block;
+  opacity: 1;
+  transition: 2s;
+  
+  
+}
+
